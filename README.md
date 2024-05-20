@@ -4,7 +4,10 @@ A simple and efficient Todo List application using MERN stack
 
 ## Table of contents
 - [Overview](#overview)
-- [Features]()
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies](#technologies)
 
 ## Overview
 This project is a full-stack Todo List application where users can add, delete, and mark tasks
